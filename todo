@@ -1,0 +1,6 @@
+gem do rspec
+
+- xadrez
+X robo
+X map / filter
+- montar dsl para datas (mais um dia, menos um dia, amanha, etc)
